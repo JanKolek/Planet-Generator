@@ -29,7 +29,7 @@ Planet Generator is an opensource unity tool for generating procedural planets, 
 ## Demo
 <p>
   <img align = "left" width="500" height="auto" src="Media/background.JPG">
-   Muj itch
+- You can try a demo desktop application that shows most of the tool's features. It is available on the itch.io website, where the .unitypackage is also available for download: https://honzakolek.itch.io/planet-generator
 </p>
 
 <br clear="left">
@@ -41,7 +41,7 @@ The plugin is intended exclusively for use with the **URP** unity render pipelin
 
 ### Installation
 
-The best way to install the plugin in your unity project is to download **.unitypackage** from :itch. Drag and drop the package into your Assets folder and click on import. The second option is to download the entire repository. Before using the plugin, I recommend trying the demo app from :itch to get a sense of all the features.
+The best way to install the plugin in your unity project is to download **.unitypackage** from :itch. Drag and drop the package into your Assets folder and click on import. The second option is to download the entire repository. Before using the plugin, I recommend trying the demo app from https://honzakolek.itch.io/planet-generator to get a sense of all the features.
 
 
 ### Classes and functions
