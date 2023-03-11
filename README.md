@@ -7,7 +7,7 @@ Planet Generator is an opensource unity tool for generating procedural planets, 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 
-![Logo](https://pics.freeicons.io/uploads/icons/png/8140633891595759595.png)
+![Logo](Media/iconplanet.png)
 
 
 ## Features
@@ -28,13 +28,10 @@ Planet Generator is an opensource unity tool for generating procedural planets, 
 
 Itch
 
+![App Screenshot](Media/background.JPG)
+
 
 ## Authors
 
 - [@JanKolek](https://www.github.com/JanKolek)
-
-
-## Screenshots
-
-![App Screenshot](Media/background.JPG)
 
