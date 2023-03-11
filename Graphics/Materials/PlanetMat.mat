@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-7230843465288575986
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 5
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PlanetMat
+  m_Shader: {fileID: -6465566751694194690, guid: ec28415453f334e44b5d630975e2bb6f, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Dirt_Albedo:
+        m_Texture: {fileID: 2800000, guid: f065b62d95d3b62468b9d18143f0e27d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GatherTexture2D_c117afdd177c4295a37d992aaf1ff909_Texture_1:
+        m_Texture: {fileID: 2800000, guid: a04ecc9d5e12d5d449077414eb86635e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _GrassAlbedo:
+        m_Texture: {fileID: 2800000, guid: 2f265cad1ebed994cae6be33255cc27a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Meadow_AO:
+        m_Texture: {fileID: 2800000, guid: 2e5e4439064fdbc4ca877093ba5165c4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Meadow_Albedo:
+        m_Texture: {fileID: 2800000, guid: 008dc4ec45a475849b5a32df00b4c44c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Meadow_Metallic:
+        m_Texture: {fileID: 2800000, guid: 2c006bee0d77ce44aaec42d54b566442, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Meadow_Normal:
+        m_Texture: {fileID: 2800000, guid: 01673a3ccf628844c8bc73dc5ec9b798, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalFromTexture_0d243719fb33415f8568749b5aaf63ac_Texture_0:
+        m_Texture: {fileID: 2800000, guid: c0de1ed79798079408a3d15043fc26c4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalFromTexture_89ab63b59fc64d92a416487127a8710e_Texture_0:
+        m_Texture: {fileID: 2800000, guid: f065b62d95d3b62468b9d18143f0e27d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Rock_Albedo:
+        m_Texture: {fileID: 2800000, guid: 1a0002364a0f29642b27cc43c8beae9d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Sand_Albedo:
+        m_Texture: {fileID: 2800000, guid: cd9ae967f3210c64dacc683ec065d63a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2DAsset_f67c40c22bad4ed5a2c19f66cb3e4b3e_Out_0:
+        m_Texture: {fileID: 2800000, guid: cf8c7a7586783044d83370698dfe6958, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Triplanar_0722307a970d491f903d113662691d60_Texture_1:
+        m_Texture: {fileID: 2800000, guid: cf8c7a7586783044d83370698dfe6958, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Triplanar_f8129969bb7a4abfbefe2664c8253c69_Texture_1:
+        m_Texture: {fileID: 2800000, guid: cf8c7a7586783044d83370698dfe6958, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AO: -1
+    - _Beach_size: 0.02
+    - _Distance: -24.88
+    - _GrassDirtDistance: 1.12
+    - _Lerp: -13.3
+    - _Metalic: 0
+    - _NormalStrength: 66.06
+    - _OceanLevel: 1.0175
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _RockDistance: 1.1594064
+    - _Smoothness: 0
+    - _SnowDist: -3.94
+    - _SnowDistance: 0
+    - _TransitionSmoothness: 1.3612404
+    m_Colors:
+    - _minmax: {r: 0, g: 9.25, b: 0, a: 0}
+  m_BuildTextureStacks: []
