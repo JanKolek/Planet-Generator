@@ -131,6 +131,15 @@ This is a class named PlanetCanvas that manages all the UI inputs and updates it
 - **`rotateButtonClick()`**: This function changes the rotation mode of the planet and updates the text of the rotate button accordingly.
 - **`openTerrainSettings()`**: This function opens or closes the terrain settings panel and changes the position and color of the buttons accordingly.
 
+## Resources
+
+- [Noise.cs - from libnoise-dotnet](https://code.google.com/archive/p/libnoise-dotnet/)
+- [Font - from dafont.com, yearone](https://www.dafont.com/year-one.font)
+- [Tree exaple model - from Mohit Saini](https://www.cgtrader.com/free-3d-models/plant/leaf/tree-low-poly-optimized)
+- [All icons - from freeicons.io](https://freeicons.io/)
+- [Skybox - from Space 3D](https://tools.wwwtyro.net/space-3d/index.html#animationSpeed=1.3939796478971411&fov=62&nebulae=false&pointStars=true&resolution=4096&seed=5pqbgwc8zd00&stars=true&sun=true)
+- [All textures - from freepbr.com](https://freepbr.com/)
+
 ## Authors
 
 - [@JanKolek](https://www.github.com/JanKolek)
